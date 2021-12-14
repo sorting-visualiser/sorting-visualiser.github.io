@@ -1,0 +1,20 @@
+{
+  "name": "Sorting_Visualizer",
+  "version": "1.0.0",
+  "description": "Scripts to visualize popular sorting algorithms using tkinter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sorting-visualiser/Sorting_Visualizer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "git+https://github.com/sorting-visualiser/Sorting_Visualizer.git"
+  },
+  "homepage": "https://github.com/sorting-visualiser/Sorting_Visualizer#readme"
+}
