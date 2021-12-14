@@ -40,5 +40,5 @@ Click on the generate new array button to create a new array.
 Select one of the given sorting algorithm to begin the visualization.
 
 
-![Demo] https://user-images.githubusercontent.com/75522742/146026364-93f4774e-911f-4293-b903-983626e68fb8.mp4
+[Demo](https://user-images.githubusercontent.com/75522742/146026364-93f4774e-911f-4293-b903-983626e68fb8.mp4) Video 
 
